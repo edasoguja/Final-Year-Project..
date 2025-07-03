@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Desktop\\smart\ helathcare\ assistant\\.dart_tool\\flutter_build\\5adf107aadf2f1bdcd7cb7251c49999d\\native_assets.json: 
