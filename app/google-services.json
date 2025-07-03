@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893351898564",
+    "project_id": "smart-healthcare-b8536",
+    "storage_bucket": "smart-healthcare-b8536.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893351898564:android:7f5a58d84961f514570891",
+        "android_client_info": {
+          "package_name": "com.example.final_project_trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaV0jb5x6TqKuScKa2J9O-UXFPqip5WzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893351898564:android:eeed23d4652aee0e570891",
+        "android_client_info": {
+          "package_name": "com.fathibanki.final_project_trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaV0jb5x6TqKuScKa2J9O-UXFPqip5WzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
